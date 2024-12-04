@@ -1,0 +1,54 @@
+{
+  "blogs": [
+    {
+      "id": "2",
+      "title": "JavaScript Fundamentals",
+      "content": "A comprehensive guide to JavaScript basics"
+    },
+    {
+      "id": "3",
+      "title": "Web Development Basics",
+      "content": "An overview of web development basics"
+    },
+    {
+      "id": "4",
+      "title": "HTML5 and CSS3",
+      "content": "A beginner's guide to HTML5 and CSS3"
+    },
+    {
+      "id": "5",
+      "title": "React Hooks",
+      "content": "An introduction to React Hooks"
+    },
+    {
+      "id": "6",
+      "title": "Understanding React",
+      "content": "A comprehensive guide to learning React.js"
+    },
+    {
+      "id": "7",
+      "title": "Advanced JavaScript",
+      "content": "Deep dive into JavaScript concepts and features"
+    },
+    {
+      "id": "8",
+      "title": "Web Development Trends",
+      "content": "Latest trends and technologies in web development"
+    },
+    {
+      "id": "9",
+      "title": "CSS for Beginners",
+      "content": "A beginner's guide to styling web pages with CSS"
+    },
+    {
+      "id": "10",
+      "title": "React Native",
+      "content": "Building mobile apps with React Native"
+    },
+    {
+      "id": "11",
+      "title": "Node.js Basics",
+      "content": "An introduction to Node.js and server-side JavaScript"
+    }
+  ]
+}
